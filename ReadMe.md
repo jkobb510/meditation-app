@@ -1,5 +1,8 @@
 # Minimal Meditation Timer App
 
+Site: https://jkobb510.github.io/MeditationApp/
+
+
 This is a responsive web app built using Vanilla JavaScript and Node.js. The app features a minimal Black/White UI designed to provide a clean and distraction-free environment for meditation sessions. It includes essential features like setting a countdown timer, starting, pausing, and resetting the timer, all while maintaining clean, testable code.
 
 ## Features
